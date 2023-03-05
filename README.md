@@ -6,8 +6,7 @@ Requirement
 1. XAMPP V.3.3.0
 2. PHP Version 7.4.33
 3. Code Editor
-    VS Code :
-    Version: 1.76.0 (user setup)
+    VS Code : Version: 1.76.0 (user setup)
     Commit: 92da9481c0904c6adfe372c12da3b7748d74bdcb
     Date: 2023-03-01T10:22:44.506Z
     Electron: 19.1.11
