@@ -4,7 +4,9 @@ APLIKASI LELANG ONLINE UKK SMK
 
 Requirement
 1. XAMPP V.3.3.0
-2. PHP Version 7.4.33
+2. PHP Version 7.4.33 
+
+   download : https://sourceforge.net/projects/xampp/files/latest/download
 3. Code Editor
     VS Code : Version: 1.76.0 (user setup)
     
