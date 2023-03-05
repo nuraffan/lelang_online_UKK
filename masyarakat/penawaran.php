@@ -41,7 +41,7 @@ include '../layouts/navbar_masyarakat.php';
 
                   <h3 class="profile-username text-center"><?=$d_tb_lelang['nama_barang']?></h3>
 
-                  <img src="../administrator/gambar/<?php echo $d_tb_lelang['tb_gambar'] ?>" alt="">
+                  <img src="../administrator/gambar/<?php echo $d_tb_lelang['tb_gambar'] ?>" width="225" alt="">
 
                   <ul class="list-group list-group-unbordered mb-3">
                     <li class="list-group-item">
