@@ -30,7 +30,7 @@ include '../layouts/navbar_admin_petugas.php';
         <div class="col-lg-12 text-black">
           <div class="card">
             <div class="card-body">
-              <h6 class="card-title">Selamat datang Admin di Aplikasi Sistem Lelang Online NFT</h6>
+              <h6 class="card-title">Selamat datang Admin di Aplikasi Sistem Lelang Online</h6>
             </div>
           </div>
         </div>

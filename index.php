@@ -72,7 +72,8 @@ body {
             </div>
 
             <div class="social-auth-links text-center">
-              <button type="submit" class="btn btn-primary btn-block btn-block">Login Masyarakat</button> 
+              <button type="submit" class="btn btn-primary btn-block btn-block">Login Masyarakat</button>
+              <a href="http://localhost/lelang_online_ukk/login.php" class="btn btn-success btn-block btn-block">Login Admin / Petugas</a>
             </div>
           </form>
           <p class="mb-0 text-center">

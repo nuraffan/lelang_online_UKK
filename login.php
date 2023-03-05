@@ -15,14 +15,7 @@
   <!-- Theme style -->
   <link rel="stylesheet" href="assets/dist/css/adminlte.min.css">
 </head>
-<style>
-body {
-  background-image: url('assets/dist/img/opo.avif');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>z
+
 <body class="hold-transition login-page">
   <div class="login-box">
     <div class="login-logo">
@@ -72,7 +65,8 @@ body {
             </div>
 
             <div class="social-auth-links text-center">
-              <button type="submit" class="btn btn-primary btn-block btn-block">Login Admin / Petugas</button> 
+              <button type="submit" class="btn btn-success btn-block btn-block">Login Admin / Petugas</button> 
+              <a href="http://localhost/lelang_online_ukk" class="btn btn-primary btn-block btn-block">Login Masyarakat</a>
             </div>
           </form>
         </div>
