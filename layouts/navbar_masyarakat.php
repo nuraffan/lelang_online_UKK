@@ -23,9 +23,9 @@ if($_SESSION['status']!="login"){
         <li class="nav-item">
           <a href="penawaran.php" class="nav-link">Penawaran</a>
         </li>
-        <li class="nav-item">
+        <!--<li class="nav-item">
           <a href="isi.php" class="nav-link">list pelelang</a>
-        </li>
+        </li> -->
       </ul>
     </div>
     <!-- Right navbar links -->
